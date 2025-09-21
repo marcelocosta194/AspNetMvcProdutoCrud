@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetMvcProdutoCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a53cd2b7c0f1bfaa09305124879b6c2fdf2faab8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abf0bd89987816e5c0eeda780c4816930f2fa9eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetMvcProdutoCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetMvcProdutoCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
