@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AspNetMvcProdutoCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD28CF9-540F-0DD4-521A-19B69D7F2ABE}|AspNetMvcProdutoCrud.csproj|c:\\users\\marce\\onedrive\\documentos\\github\\aspnetmvcprodutocrud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FAD28CF9-540F-0DD4-521A-19B69D7F2ABE}|AspNetMvcProdutoCrud.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AspNetMvcProdutoCrud\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Documentos\\GitHub\\AspNetMvcProdutoCrud\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-21T17:09:58.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

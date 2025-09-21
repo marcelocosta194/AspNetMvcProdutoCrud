@@ -1,0 +1,6 @@
+C:\Users\marce\OneDrive\Documentos\GitHub\AspNetMvcProdutoCrud\obj\Debug\net472\AspNetMvcProdutoCrud.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\AspNetMvcProdutoCrud\obj\Debug\net472\AspNetMvcProdutoCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Documentos\GitHub\AspNetMvcProdutoCrud\obj\Debug\net472\AspNetMvcProdutoCrud.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\AspNetMvcProdutoCrud\obj\Debug\net472\AspNetMvcProdutoCrud.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Documentos\GitHub\AspNetMvcProdutoCrud\obj\Debug\net472\AspNetMvcProdutoCrud.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\AspNetMvcProdutoCrud\obj\Debug\net472\AspNetMvcProdutoCrud.sourcelink.json
